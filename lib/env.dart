@@ -1,0 +1,1 @@
+const sendgridApiKey = String.fromEnvironment('SENDGRID_API_KEY');
